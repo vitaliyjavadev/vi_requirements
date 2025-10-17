@@ -12,6 +12,6 @@
 8. [Слой сервисов](08_service_layer);
 9. [Слой контроллеров](09_controller_and_view_layer);
 10. [Оформление кода](10_code_design);
-
-11. [Тесты](11_tests).
+11. [Правила на проекте](11_project_rules.md)
+12. [Тесты](12_tests).
 
